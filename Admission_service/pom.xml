@@ -8,11 +8,11 @@
 		<version>2.6.7</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.geetha.microservice</groupId>
+	<groupId>com.zensar</groupId>
 	<artifactId>Admissions-Service-ms</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Admissions-Service-ms</name>
-	<description>Admissions (list of patients)</description>
+	<description>Admission</description>
 	<properties>
 		<java.version>11</java.version>
 		<spring-cloud.version>2021.0.2</spring-cloud.version>
